@@ -1,0 +1,6885 @@
+[
+  {
+    "buyer_id": "B0001",
+    "name": "Tiya Khosla",
+    "state": "Madhya Pradesh",
+    "city": "Deoghar",
+    "search_history": [
+      "Automotive",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0002",
+    "name": "Misha Balay",
+    "state": "Maharashtra",
+    "city": "Jamalpur",
+    "search_history": [
+      "Electronics",
+      "Machinery",
+      "Furniture",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Machinery",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0003",
+    "name": "Charvi Seth",
+    "state": "Maharashtra",
+    "city": "Chandigarh",
+    "search_history": [
+      "Furniture",
+      "Machinery",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0004",
+    "name": "Ira Kaur",
+    "state": "Maharashtra",
+    "city": "Maheshtala",
+    "search_history": [
+      "Electronics",
+      "Packaging",
+      "Furniture",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0005",
+    "name": "Saira Gupta",
+    "state": "Maharashtra",
+    "city": "Patiala",
+    "search_history": [
+      "Kitchenware",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0006",
+    "name": "Bhavin Srinivas",
+    "state": "Maharashtra",
+    "city": "Udaipur",
+    "search_history": [
+      "Chemicals",
+      "Tools",
+      "Machinery",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0007",
+    "name": "Tarini Gour",
+    "state": "Rajasthan",
+    "city": "Berhampore",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0008",
+    "name": "Shaan Dube",
+    "state": "Haryana",
+    "city": "Durgapur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0009",
+    "name": "Stuvan Keer",
+    "state": "Maharashtra",
+    "city": "South Dumdum",
+    "search_history": [
+      "Packaging",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0010",
+    "name": "Alisha Sachdev",
+    "state": "Rajasthan",
+    "city": "Ujjain",
+    "search_history": [
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0011",
+    "name": "Mehul Chaudry",
+    "state": "Tamil Nadu",
+    "city": "Bellary",
+    "search_history": [
+      "Electricals",
+      "Kitchenware",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0012",
+    "name": "Tanya Ravi",
+    "state": "Haryana",
+    "city": "Baranagar",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Kitchenware",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0013",
+    "name": "Tiya Ahluwalia",
+    "state": "Uttar Pradesh",
+    "city": "Berhampur",
+    "search_history": [
+      "Packaging",
+      "Furniture",
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0014",
+    "name": "Reyansh Bains",
+    "state": "Delhi",
+    "city": "Thrissur",
+    "search_history": [
+      "Machinery",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Electronics",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0015",
+    "name": "Madhup Dada",
+    "state": "Madhya Pradesh",
+    "city": "Unnao",
+    "search_history": [
+      "Packaging",
+      "Textiles",
+      "Kitchenware",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0016",
+    "name": "Damini Goyal",
+    "state": "Karnataka",
+    "city": "Kadapa",
+    "search_history": [
+      "Electronics",
+      "Textiles",
+      "Furniture",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0017",
+    "name": "Aayush Wable",
+    "state": "Tamil Nadu",
+    "city": "Nagaon",
+    "search_history": [
+      "Machinery",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0018",
+    "name": "Dhruv Mahajan",
+    "state": "Tamil Nadu",
+    "city": "Jorhat",
+    "search_history": [
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0019",
+    "name": "Romil Vyas",
+    "state": "Uttar Pradesh",
+    "city": "Dehradun",
+    "search_history": [
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0020",
+    "name": "Umang Boase",
+    "state": "Haryana",
+    "city": "Nellore",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0021",
+    "name": "Ayesha Taneja",
+    "state": "Madhya Pradesh",
+    "city": "Hajipur",
+    "search_history": [
+      "Machinery",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0022",
+    "name": "Yakshit Bail",
+    "state": "Delhi",
+    "city": "Alwar",
+    "search_history": [
+      "Packaging",
+      "Kitchenware",
+      "Chemicals",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0023",
+    "name": "Divij Golla",
+    "state": "Haryana",
+    "city": "Ramgarh",
+    "search_history": [
+      "Textiles",
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0024",
+    "name": "Keya Rajagopal",
+    "state": "Madhya Pradesh",
+    "city": "Bharatpur",
+    "search_history": [
+      "Electricals",
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0025",
+    "name": "Aayush Basak",
+    "state": "Maharashtra",
+    "city": "Farrukhabad",
+    "search_history": [
+      "Furniture",
+      "Automotive",
+      "Tools"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Electricals",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0026",
+    "name": "Uthkarsh Warrior",
+    "state": "Delhi",
+    "city": "Ahmedabad",
+    "search_history": [
+      "Chemicals",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0027",
+    "name": "Devansh Shan",
+    "state": "Karnataka",
+    "city": "Burhanpur",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Machinery",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0028",
+    "name": "Ishaan Hari",
+    "state": "Karnataka",
+    "city": "Jamnagar",
+    "search_history": [
+      "Electronics",
+      "Machinery",
+      "Furniture",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0029",
+    "name": "Myra Chopra",
+    "state": "Rajasthan",
+    "city": "Varanasi",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0030",
+    "name": "Neelofar Kapadia",
+    "state": "Gujarat",
+    "city": "Ujjain",
+    "search_history": [
+      "Machinery",
+      "Electricals",
+      "Tools",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Packaging",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0031",
+    "name": "Aarush Ravel",
+    "state": "Tamil Nadu",
+    "city": "Ulhasnagar",
+    "search_history": [
+      "Automotive",
+      "Kitchenware",
+      "Electricals",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0032",
+    "name": "Alisha Kashyap",
+    "state": "Madhya Pradesh",
+    "city": "Meerut",
+    "search_history": [
+      "Electricals",
+      "Automotive",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0033",
+    "name": "Dishani Lanka",
+    "state": "Rajasthan",
+    "city": "Nagpur",
+    "search_history": [
+      "Automotive",
+      "Kitchenware",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0034",
+    "name": "Madhup Ramanathan",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "search_history": [
+      "Textiles",
+      "Machinery",
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0035",
+    "name": "Umang Rajan",
+    "state": "Madhya Pradesh",
+    "city": "Rajkot",
+    "search_history": [
+      "Tools",
+      "Furniture",
+      "Machinery",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0036",
+    "name": "Anvi Ben",
+    "state": "Maharashtra",
+    "city": "Bhiwandi",
+    "search_history": [
+      "Automotive",
+      "Kitchenware",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0037",
+    "name": "Abram Bhardwaj",
+    "state": "Maharashtra",
+    "city": "Pondicherry",
+    "search_history": [
+      "Packaging",
+      "Electricals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Automotive",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0038",
+    "name": "Veer Aurora",
+    "state": "Madhya Pradesh",
+    "city": "Thane",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0039",
+    "name": "Tiya Sha",
+    "state": "Gujarat",
+    "city": "Madhyamgram",
+    "search_history": [
+      "Chemicals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0040",
+    "name": "Yasmin Bhattacharyya",
+    "state": "Madhya Pradesh",
+    "city": "Bhimavaram",
+    "search_history": [
+      "Electronics",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0041",
+    "name": "Dharmajan Chokshi",
+    "state": "Gujarat",
+    "city": "Mathura",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0042",
+    "name": "Prerak Chad",
+    "state": "Maharashtra",
+    "city": "Pondicherry",
+    "search_history": [
+      "Kitchenware",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0043",
+    "name": "Zara Wadhwa",
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "search_history": [
+      "Textiles",
+      "Chemicals",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0044",
+    "name": "Nirvaan Saha",
+    "state": "Haryana",
+    "city": "Ratlam",
+    "search_history": [
+      "Kitchenware",
+      "Furniture",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0045",
+    "name": "Aarush Sahni",
+    "state": "Rajasthan",
+    "city": "Dharmavaram",
+    "search_history": [
+      "Kitchenware",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0046",
+    "name": "Kashvi Dubey",
+    "state": "Karnataka",
+    "city": "Katihar",
+    "search_history": [
+      "Machinery",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0047",
+    "name": "Hunar Atwal",
+    "state": "Rajasthan",
+    "city": "Hospet",
+    "search_history": [
+      "Electricals",
+      "Chemicals",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Textiles",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0048",
+    "name": "Sumer Kalita",
+    "state": "Tamil Nadu",
+    "city": "Hindupur",
+    "search_history": [
+      "Chemicals",
+      "Machinery",
+      "Electronics",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0049",
+    "name": "Anay Dhingra",
+    "state": "Karnataka",
+    "city": "Jabalpur",
+    "search_history": [
+      "Kitchenware",
+      "Tools"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0050",
+    "name": "Emir Lall",
+    "state": "Tamil Nadu",
+    "city": "Ahmednagar",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0051",
+    "name": "Farhan Dutt",
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Tools",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0052",
+    "name": "Anvi Shankar",
+    "state": "Delhi",
+    "city": "Rajpur Sonarpur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0053",
+    "name": "Akarsh Anand",
+    "state": "Gujarat",
+    "city": "Alappuzha",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0054",
+    "name": "Damini Tara",
+    "state": "Maharashtra",
+    "city": "Anantapur",
+    "search_history": [
+      "Chemicals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0055",
+    "name": "Taimur Arora",
+    "state": "Delhi",
+    "city": "Khammam",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0056",
+    "name": "Aniruddh Korpal",
+    "state": "Uttar Pradesh",
+    "city": "Jaipur",
+    "search_history": [
+      "Machinery",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0057",
+    "name": "Dhanuk Agate",
+    "state": "Maharashtra",
+    "city": "Ahmedabad",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0058",
+    "name": "Zaina Rajan",
+    "state": "Gujarat",
+    "city": "Bhubaneswar",
+    "search_history": [
+      "Machinery",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0059",
+    "name": "Myra Ravel",
+    "state": "Karnataka",
+    "city": "South Dumdum",
+    "search_history": [
+      "Electronics",
+      "Kitchenware",
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0060",
+    "name": "Darshit Ahluwalia",
+    "state": "Tamil Nadu",
+    "city": "Motihari",
+    "search_history": [
+      "Automotive",
+      "Chemicals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0061",
+    "name": "Bhavin Master",
+    "state": "Maharashtra",
+    "city": "Burhanpur",
+    "search_history": [
+      "Electricals",
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0062",
+    "name": "Biju Bhattacharyya",
+    "state": "Uttar Pradesh",
+    "city": "Kakinada",
+    "search_history": [
+      "Machinery",
+      "Furniture",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0063",
+    "name": "Aradhya Swamy",
+    "state": "Rajasthan",
+    "city": "Aligarh",
+    "search_history": [
+      "Packaging",
+      "Textiles",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0064",
+    "name": "Siya Seshadri",
+    "state": "Rajasthan",
+    "city": "Chennai",
+    "search_history": [
+      "Automotive",
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Kitchenware",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0065",
+    "name": "Vaibhav Sabharwal",
+    "state": "Madhya Pradesh",
+    "city": "Tenali",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Electricals",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0066",
+    "name": "Jiya Handa",
+    "state": "Tamil Nadu",
+    "city": "Tumkur",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Tools",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0067",
+    "name": "Taran Gokhale",
+    "state": "Karnataka",
+    "city": "Agra",
+    "search_history": [
+      "Electricals",
+      "Tools",
+      "Automotive",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Chemicals",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0068",
+    "name": "Zain Sachar",
+    "state": "Uttar Pradesh",
+    "city": "Muzaffarpur",
+    "search_history": [
+      "Chemicals",
+      "Automotive",
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0069",
+    "name": "Jivin Hora",
+    "state": "Maharashtra",
+    "city": "Mathura",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Tools",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0070",
+    "name": "Ishita Jaggi",
+    "state": "Delhi",
+    "city": "Rewa",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0071",
+    "name": "Saanvi Warrior",
+    "state": "Madhya Pradesh",
+    "city": "Anand",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Electronics",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0072",
+    "name": "Aaina Borde",
+    "state": "Gujarat",
+    "city": "Arrah",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Tools",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0073",
+    "name": "Aaina Amble",
+    "state": "Madhya Pradesh",
+    "city": "Khandwa",
+    "search_history": [
+      "Machinery",
+      "Textiles",
+      "Electronics",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0074",
+    "name": "Indrans Bora",
+    "state": "Delhi",
+    "city": "Hubli\u2013Dharwad",
+    "search_history": [
+      "Electricals",
+      "Automotive",
+      "Packaging",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0075",
+    "name": "Anay Dada",
+    "state": "Delhi",
+    "city": "Tirupati",
+    "search_history": [
+      "Machinery",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0076",
+    "name": "Fateh Walla",
+    "state": "Rajasthan",
+    "city": "Patna",
+    "search_history": [
+      "Textiles",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Packaging",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0077",
+    "name": "Kiaan Goyal",
+    "state": "Madhya Pradesh",
+    "city": "Morbi",
+    "search_history": [
+      "Machinery",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0078",
+    "name": "Kiaan Raj",
+    "state": "West Bengal",
+    "city": "Muzaffarpur",
+    "search_history": [
+      "Textiles",
+      "Electronics",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0079",
+    "name": "Vanya Venkatesh",
+    "state": "West Bengal",
+    "city": "Dehri",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0080",
+    "name": "Samiha Mani",
+    "state": "Uttar Pradesh",
+    "city": "Vijayanagaram",
+    "search_history": [
+      "Electricals",
+      "Automotive",
+      "Electronics",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Furniture",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0081",
+    "name": "Nehmat Krishnan",
+    "state": "Karnataka",
+    "city": "Ambala",
+    "search_history": [
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0082",
+    "name": "Misha Singhal",
+    "state": "Gujarat",
+    "city": "Sirsa",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0083",
+    "name": "Urvi Behl",
+    "state": "Haryana",
+    "city": "Asansol",
+    "search_history": [
+      "Furniture",
+      "Packaging",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Furniture",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0084",
+    "name": "Pranay Gade",
+    "state": "West Bengal",
+    "city": "Jalgaon",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Automotive",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0085",
+    "name": "Prisha Hegde",
+    "state": "West Bengal",
+    "city": "Thanjavur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0086",
+    "name": "Alia Contractor",
+    "state": "Karnataka",
+    "city": "Sirsa",
+    "search_history": [
+      "Packaging",
+      "Machinery",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0087",
+    "name": "Suhana Mandal",
+    "state": "Gujarat",
+    "city": "Ratlam",
+    "search_history": [
+      "Automotive",
+      "Tools",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0088",
+    "name": "Kashvi Iyengar",
+    "state": "Haryana",
+    "city": "Saharanpur",
+    "search_history": [
+      "Textiles",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0089",
+    "name": "Veer Chaudry",
+    "state": "Gujarat",
+    "city": "Udupi",
+    "search_history": [
+      "Tools",
+      "Electricals",
+      "Machinery",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0090",
+    "name": "Prisha Sridhar",
+    "state": "West Bengal",
+    "city": "Purnia",
+    "search_history": [
+      "Automotive",
+      "Tools",
+      "Electronics",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0091",
+    "name": "Khushi Khurana",
+    "state": "Gujarat",
+    "city": "Malda",
+    "search_history": [
+      "Automotive",
+      "Machinery",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0092",
+    "name": "Tushar Kakar",
+    "state": "Rajasthan",
+    "city": "Solapur",
+    "search_history": [
+      "Chemicals",
+      "Machinery",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0093",
+    "name": "Anaya Rau",
+    "state": "Haryana",
+    "city": "Jalna",
+    "search_history": [
+      "Chemicals",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0094",
+    "name": "Damini Thakur",
+    "state": "Gujarat",
+    "city": "Sasaram",
+    "search_history": [
+      "Chemicals",
+      "Furniture",
+      "Tools",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Tools",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0095",
+    "name": "Manjari Dyal",
+    "state": "Gujarat",
+    "city": "Chandigarh",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Electricals",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0096",
+    "name": "Alia Sidhu",
+    "state": "Gujarat",
+    "city": "Mahbubnagar",
+    "search_history": [
+      "Kitchenware",
+      "Textiles",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Electricals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0097",
+    "name": "Kashvi Jha",
+    "state": "Karnataka",
+    "city": "Bettiah",
+    "search_history": [
+      "Tools"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0098",
+    "name": "Vedika Swaminathan",
+    "state": "Haryana",
+    "city": "Karimnagar",
+    "search_history": [
+      "Automotive",
+      "Furniture",
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0099",
+    "name": "Ryan Chada",
+    "state": "Gujarat",
+    "city": "Dhule",
+    "search_history": [
+      "Machinery",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Chemicals",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0100",
+    "name": "Sumer Vasa",
+    "state": "Uttar Pradesh",
+    "city": "Pune",
+    "search_history": [
+      "Electricals",
+      "Automotive",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0101",
+    "name": "Jivika Ghosh",
+    "state": "Rajasthan",
+    "city": "Hapur",
+    "search_history": [
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0102",
+    "name": "Suhana Ramakrishnan",
+    "state": "Haryana",
+    "city": "Karaikudi",
+    "search_history": [
+      "Packaging",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0103",
+    "name": "Yuvraj  Chhabra",
+    "state": "Uttar Pradesh",
+    "city": "Farrukhabad",
+    "search_history": [
+      "Chemicals",
+      "Automotive",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Kitchenware",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0104",
+    "name": "Khushi Tailor",
+    "state": "Tamil Nadu",
+    "city": "Suryapet",
+    "search_history": [
+      "Textiles",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Furniture",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0105",
+    "name": "Rania Bera",
+    "state": "Haryana",
+    "city": "Etawah",
+    "search_history": [
+      "Electricals",
+      "Electronics",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Tools",
+      "Textiles",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0106",
+    "name": "Shamik Raju",
+    "state": "Uttar Pradesh",
+    "city": "Shimla",
+    "search_history": [
+      "Electronics",
+      "Textiles",
+      "Furniture",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0107",
+    "name": "Zara D\u2019Alia",
+    "state": "Delhi",
+    "city": "Bihar Sharif",
+    "search_history": [
+      "Textiles",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electronics",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0108",
+    "name": "Alia Bhatnagar",
+    "state": "Haryana",
+    "city": "Hazaribagh",
+    "search_history": [
+      "Packaging",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0109",
+    "name": "Ranbir Garg",
+    "state": "Rajasthan",
+    "city": "Giridih",
+    "search_history": [
+      "Textiles",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0110",
+    "name": "Nehmat Sood",
+    "state": "Madhya Pradesh",
+    "city": "Berhampore",
+    "search_history": [
+      "Automotive",
+      "Furniture",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0111",
+    "name": "Ritvik Raj",
+    "state": "Madhya Pradesh",
+    "city": "Karnal",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Chemicals",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0112",
+    "name": "Anvi Loke",
+    "state": "Tamil Nadu",
+    "city": "Serampore",
+    "search_history": [
+      "Machinery",
+      "Electricals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Machinery",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0113",
+    "name": "Hiran Chaudhry",
+    "state": "Madhya Pradesh",
+    "city": "Madanapalle",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0114",
+    "name": "Taimur Madan",
+    "state": "Tamil Nadu",
+    "city": "Gandhidham",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0115",
+    "name": "Nayantara Chopra",
+    "state": "Uttar Pradesh",
+    "city": "Pallavaram",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0116",
+    "name": "Shayak Sanghvi",
+    "state": "Haryana",
+    "city": "Etawah",
+    "search_history": [
+      "Chemicals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0117",
+    "name": "Parinaaz Tripathi",
+    "state": "Tamil Nadu",
+    "city": "Singrauli",
+    "search_history": [
+      "Kitchenware",
+      "Electronics",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0118",
+    "name": "Pari Johal",
+    "state": "Rajasthan",
+    "city": "Jamshedpur",
+    "search_history": [
+      "Kitchenware",
+      "Automotive",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0119",
+    "name": "Hansh Bajaj",
+    "state": "Delhi",
+    "city": "Coimbatore",
+    "search_history": [
+      "Electricals",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0120",
+    "name": "Umang Malhotra",
+    "state": "Tamil Nadu",
+    "city": "Narasaraopet",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Textiles",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0121",
+    "name": "Nitya Varghese",
+    "state": "Maharashtra",
+    "city": "Patna",
+    "search_history": [
+      "Kitchenware",
+      "Electricals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0122",
+    "name": "Zara Buch",
+    "state": "Karnataka",
+    "city": "Kumbakonam",
+    "search_history": [
+      "Tools",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0123",
+    "name": "Anahita Chana",
+    "state": "Tamil Nadu",
+    "city": "Ujjain",
+    "search_history": [
+      "Tools",
+      "Chemicals",
+      "Textiles",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0124",
+    "name": "Inaaya  Chaudhry",
+    "state": "Tamil Nadu",
+    "city": "Patna",
+    "search_history": [
+      "Kitchenware",
+      "Furniture",
+      "Textiles",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0125",
+    "name": "Hridaan Doctor",
+    "state": "Madhya Pradesh",
+    "city": "Guwahati",
+    "search_history": [
+      "Electronics",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0126",
+    "name": "Drishya Gopal",
+    "state": "Delhi",
+    "city": "Haridwar",
+    "search_history": [
+      "Kitchenware",
+      "Electronics",
+      "Automotive",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0127",
+    "name": "Kanav Chopra",
+    "state": "Rajasthan",
+    "city": "Udupi",
+    "search_history": [
+      "Electricals",
+      "Chemicals",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0128",
+    "name": "Eshani Wagle",
+    "state": "Uttar Pradesh",
+    "city": "Phagwara",
+    "search_history": [
+      "Packaging",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0129",
+    "name": "Shalv Dayal",
+    "state": "Delhi",
+    "city": "Tadipatri",
+    "search_history": [
+      "Machinery",
+      "Automotive",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Kitchenware",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0130",
+    "name": "Hiran Varghese",
+    "state": "West Bengal",
+    "city": "Nagpur",
+    "search_history": [
+      "Textiles",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Packaging",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0131",
+    "name": "Kaira Baral",
+    "state": "Maharashtra",
+    "city": "Rampur",
+    "search_history": [
+      "Machinery",
+      "Automotive",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0132",
+    "name": "Lakshit Char",
+    "state": "Delhi",
+    "city": "Patna",
+    "search_history": [
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0133",
+    "name": "Taimur Chana",
+    "state": "Gujarat",
+    "city": "Eluru",
+    "search_history": [
+      "Machinery",
+      "Electronics",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0134",
+    "name": "Nayantara Luthra",
+    "state": "Madhya Pradesh",
+    "city": "Hapur",
+    "search_history": [
+      "Machinery",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0135",
+    "name": "Armaan Kalita",
+    "state": "Karnataka",
+    "city": "Bally",
+    "search_history": [
+      "Furniture",
+      "Tools"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0136",
+    "name": "Tanya Tella",
+    "state": "Madhya Pradesh",
+    "city": "Yamunanagar",
+    "search_history": [
+      "Kitchenware",
+      "Packaging",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0137",
+    "name": "Hazel Ramesh",
+    "state": "Madhya Pradesh",
+    "city": "Mangalore",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0138",
+    "name": "Pihu Gera",
+    "state": "Madhya Pradesh",
+    "city": "Firozabad",
+    "search_history": [
+      "Electricals",
+      "Kitchenware",
+      "Chemicals",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0139",
+    "name": "Anaya Kota",
+    "state": "Karnataka",
+    "city": "Uluberia",
+    "search_history": [
+      "Kitchenware",
+      "Chemicals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0140",
+    "name": "Emir Ahuja",
+    "state": "Delhi",
+    "city": "Bellary",
+    "search_history": [
+      "Automotive",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0141",
+    "name": "Anika Walia",
+    "state": "Maharashtra",
+    "city": "Kota",
+    "search_history": [
+      "Furniture",
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Electricals",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0142",
+    "name": "Nirvi Mann",
+    "state": "Tamil Nadu",
+    "city": "Tirunelveli",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0143",
+    "name": "Misha Kaur",
+    "state": "West Bengal",
+    "city": "Mysore",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0144",
+    "name": "Sahil Dani",
+    "state": "West Bengal",
+    "city": "Adoni",
+    "search_history": [
+      "Electronics",
+      "Kitchenware",
+      "Tools",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0145",
+    "name": "Keya Dhar",
+    "state": "Gujarat",
+    "city": "Bhubaneswar",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0146",
+    "name": "Rania Bera",
+    "state": "Rajasthan",
+    "city": "Indore",
+    "search_history": [
+      "Kitchenware",
+      "Tools",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0147",
+    "name": "Mishti Sami",
+    "state": "Delhi",
+    "city": "Uluberia",
+    "search_history": [
+      "Kitchenware",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Kitchenware",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0148",
+    "name": "Ahana  Contractor",
+    "state": "Gujarat",
+    "city": "Tinsukia",
+    "search_history": [
+      "Automotive",
+      "Textiles",
+      "Kitchenware",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0149",
+    "name": "Ivana Cheema",
+    "state": "Uttar Pradesh",
+    "city": "Srikakulam",
+    "search_history": [
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Textiles",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0150",
+    "name": "Badal Sane",
+    "state": "Maharashtra",
+    "city": "Bhavnagar",
+    "search_history": [
+      "Electronics",
+      "Kitchenware",
+      "Automotive",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Furniture",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0151",
+    "name": "Myra Goswami",
+    "state": "Madhya Pradesh",
+    "city": "Nizamabad",
+    "search_history": [
+      "Kitchenware",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0152",
+    "name": "Alia Aggarwal",
+    "state": "Gujarat",
+    "city": "Anantapuram",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Packaging",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0153",
+    "name": "Heer Chaudhary",
+    "state": "Gujarat",
+    "city": "Udupi",
+    "search_history": [
+      "Machinery",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0154",
+    "name": "Dhanuk Badami",
+    "state": "Haryana",
+    "city": "Panvel",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0155",
+    "name": "Vedika Ramakrishnan",
+    "state": "Haryana",
+    "city": "Shimoga",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Packaging",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0156",
+    "name": "Hrishita Mahajan",
+    "state": "West Bengal",
+    "city": "Saharanpur",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0157",
+    "name": "Vidur Aggarwal",
+    "state": "Maharashtra",
+    "city": "Munger",
+    "search_history": [
+      "Kitchenware",
+      "Chemicals",
+      "Automotive",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0158",
+    "name": "Rasha Srinivasan",
+    "state": "Rajasthan",
+    "city": "Bulandshahr",
+    "search_history": [
+      "Electronics",
+      "Packaging",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0159",
+    "name": "Purab Golla",
+    "state": "Karnataka",
+    "city": "Thrissur",
+    "search_history": [
+      "Electricals",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0160",
+    "name": "Saanvi Banik",
+    "state": "Rajasthan",
+    "city": "Siliguri",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Furniture",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0161",
+    "name": "Charvi Basu",
+    "state": "Madhya Pradesh",
+    "city": "Katihar",
+    "search_history": [
+      "Automotive",
+      "Packaging",
+      "Textiles",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0162",
+    "name": "Riaan Bahri",
+    "state": "Maharashtra",
+    "city": "Udupi",
+    "search_history": [
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0163",
+    "name": "Jiya Shenoy",
+    "state": "Delhi",
+    "city": "Ramagundam",
+    "search_history": [
+      "Furniture",
+      "Tools"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Tools",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0164",
+    "name": "Urvi Tak",
+    "state": "Haryana",
+    "city": "Patna",
+    "search_history": [
+      "Electricals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Packaging",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0165",
+    "name": "Aarush Wason",
+    "state": "Delhi",
+    "city": "Ahmedabad",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0166",
+    "name": "Charvi Bakshi",
+    "state": "Madhya Pradesh",
+    "city": "Katni",
+    "search_history": [
+      "Furniture",
+      "Packaging",
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0167",
+    "name": "Mamooty Bali",
+    "state": "Delhi",
+    "city": "Ambala",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Machinery",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0168",
+    "name": "Saksham Behl",
+    "state": "Delhi",
+    "city": "Uluberia",
+    "search_history": [
+      "Automotive",
+      "Packaging",
+      "Machinery",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0169",
+    "name": "Yuvaan Rao",
+    "state": "Haryana",
+    "city": "Bhavnagar",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0170",
+    "name": "Zaina Bir",
+    "state": "Gujarat",
+    "city": "Khammam",
+    "search_history": [
+      "Packaging",
+      "Electricals",
+      "Chemicals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0171",
+    "name": "Zeeshan Manne",
+    "state": "Delhi",
+    "city": "Katni",
+    "search_history": [
+      "Textiles",
+      "Tools"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Packaging",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0172",
+    "name": "Zaina Seshadri",
+    "state": "Haryana",
+    "city": "Ranchi",
+    "search_history": [
+      "Chemicals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Textiles",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0173",
+    "name": "Hunar Reddy",
+    "state": "Rajasthan",
+    "city": "Nellore",
+    "search_history": [
+      "Packaging",
+      "Kitchenware",
+      "Tools"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0174",
+    "name": "Ojas Sankaran",
+    "state": "Tamil Nadu",
+    "city": "Karaikudi",
+    "search_history": [
+      "Tools",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Automotive",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0175",
+    "name": "Aaryahi Mangat",
+    "state": "Gujarat",
+    "city": "Ramgarh",
+    "search_history": [
+      "Tools",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0176",
+    "name": "Aaina Sandal",
+    "state": "Delhi",
+    "city": "Akola",
+    "search_history": [
+      "Textiles",
+      "Electronics",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0177",
+    "name": "Anya Barman",
+    "state": "Delhi",
+    "city": "Ludhiana",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Tools",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0178",
+    "name": "Eshani Datta",
+    "state": "Haryana",
+    "city": "Satara",
+    "search_history": [
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0179",
+    "name": "Misha Sampath",
+    "state": "Haryana",
+    "city": "Burhanpur",
+    "search_history": [
+      "Kitchenware",
+      "Machinery",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0180",
+    "name": "Darshit Iyengar",
+    "state": "Madhya Pradesh",
+    "city": "Noida",
+    "search_history": [
+      "Electricals",
+      "Chemicals",
+      "Machinery",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0181",
+    "name": "Drishya Kumar",
+    "state": "Haryana",
+    "city": "Tirupati",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0182",
+    "name": "Vedika Acharya",
+    "state": "Karnataka",
+    "city": "Begusarai",
+    "search_history": [
+      "Kitchenware",
+      "Textiles",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Kitchenware",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0183",
+    "name": "Uthkarsh Basak",
+    "state": "Uttar Pradesh",
+    "city": "Sonipat",
+    "search_history": [
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Furniture",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0184",
+    "name": "Dhanuk Kalita",
+    "state": "Madhya Pradesh",
+    "city": "Surendranagar Dudhrej",
+    "search_history": [
+      "Textiles",
+      "Machinery",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0185",
+    "name": "Samar Sarin",
+    "state": "Gujarat",
+    "city": "Ongole",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Tools"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0186",
+    "name": "Alisha Rout",
+    "state": "Rajasthan",
+    "city": "Ramagundam",
+    "search_history": [
+      "Kitchenware",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Packaging",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0187",
+    "name": "Mehul Bhavsar",
+    "state": "Delhi",
+    "city": "Jalgaon",
+    "search_history": [
+      "Kitchenware",
+      "Furniture",
+      "Electricals",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0188",
+    "name": "Ehsaan Singhal",
+    "state": "Tamil Nadu",
+    "city": "Bhilwara",
+    "search_history": [
+      "Furniture",
+      "Automotive",
+      "Chemicals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0189",
+    "name": "Ehsaan Ramaswamy",
+    "state": "Delhi",
+    "city": "Thanjavur",
+    "search_history": [
+      "Automotive",
+      "Chemicals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0190",
+    "name": "Jhanvi Barman",
+    "state": "Gujarat",
+    "city": "Deoghar",
+    "search_history": [
+      "Automotive",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0191",
+    "name": "Sana Date",
+    "state": "West Bengal",
+    "city": "Tumkur",
+    "search_history": [
+      "Electronics",
+      "Automotive",
+      "Tools",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0192",
+    "name": "Nakul Wagle",
+    "state": "Delhi",
+    "city": "Saharanpur",
+    "search_history": [
+      "Automotive",
+      "Kitchenware",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0193",
+    "name": "Miraan Hora",
+    "state": "Haryana",
+    "city": "Kavali",
+    "search_history": [
+      "Machinery",
+      "Electronics",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0194",
+    "name": "Dishani Sekhon",
+    "state": "Delhi",
+    "city": "Bidar",
+    "search_history": [
+      "Tools",
+      "Textiles",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0195",
+    "name": "Hiran Singh",
+    "state": "Delhi",
+    "city": "Purnia",
+    "search_history": [
+      "Textiles",
+      "Machinery",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0196",
+    "name": "Parinaaz Raj",
+    "state": "Delhi",
+    "city": "Rajpur Sonarpur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0197",
+    "name": "Farhan Golla",
+    "state": "Madhya Pradesh",
+    "city": "Munger",
+    "search_history": [
+      "Tools",
+      "Machinery",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0198",
+    "name": "Nishith Seshadri",
+    "state": "West Bengal",
+    "city": "Katihar",
+    "search_history": [
+      "Automotive",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0199",
+    "name": "Indrajit Balay",
+    "state": "Uttar Pradesh",
+    "city": "Mango",
+    "search_history": [
+      "Electronics",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0200",
+    "name": "Divit Bhat",
+    "state": "Tamil Nadu",
+    "city": "Malegaon",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Machinery",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Packaging",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0201",
+    "name": "Tarini Tata",
+    "state": "Madhya Pradesh",
+    "city": "Sultan Pur Majra",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Machinery",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0202",
+    "name": "Rhea Koshy",
+    "state": "Gujarat",
+    "city": "Rewa",
+    "search_history": [
+      "Automotive",
+      "Packaging",
+      "Machinery",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Chemicals",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0203",
+    "name": "Pihu Toor",
+    "state": "Madhya Pradesh",
+    "city": "Salem",
+    "search_history": [
+      "Kitchenware",
+      "Machinery",
+      "Electricals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0204",
+    "name": "Ehsaan Bhalla",
+    "state": "Madhya Pradesh",
+    "city": "Rourkela",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0205",
+    "name": "Tanya Hari",
+    "state": "Maharashtra",
+    "city": "Warangal",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0206",
+    "name": "Ivana Rajagopalan",
+    "state": "Tamil Nadu",
+    "city": "Amritsar",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0207",
+    "name": "Indranil Chauhan",
+    "state": "Gujarat",
+    "city": "Kolhapur",
+    "search_history": [
+      "Furniture",
+      "Kitchenware",
+      "Machinery",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Textiles",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0208",
+    "name": "Mohanlal Raju",
+    "state": "Karnataka",
+    "city": "Nadiad",
+    "search_history": [
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0209",
+    "name": "Kashvi Dugal",
+    "state": "Haryana",
+    "city": "Proddatur",
+    "search_history": [
+      "Electricals",
+      "Furniture",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0210",
+    "name": "Divij Char",
+    "state": "Uttar Pradesh",
+    "city": "Thoothukudi",
+    "search_history": [
+      "Packaging",
+      "Kitchenware",
+      "Machinery",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Chemicals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0211",
+    "name": "Nayantara Kata",
+    "state": "Uttar Pradesh",
+    "city": "Kolhapur",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Tools",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0212",
+    "name": "Hunar Ramaswamy",
+    "state": "Uttar Pradesh",
+    "city": "Chandigarh",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0213",
+    "name": "Elakshi Dhar",
+    "state": "Delhi",
+    "city": "Guntur",
+    "search_history": [
+      "Machinery",
+      "Electricals",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0214",
+    "name": "Jayant Madan",
+    "state": "Haryana",
+    "city": "Bongaigaon",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0215",
+    "name": "Aradhya Mangal",
+    "state": "Haryana",
+    "city": "Sangli-Miraj & Kupwad",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0216",
+    "name": "Kaira Wadhwa",
+    "state": "Gujarat",
+    "city": "Visakhapatnam",
+    "search_history": [
+      "Tools",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0217",
+    "name": "Shanaya Rau",
+    "state": "Haryana",
+    "city": "Jalandhar",
+    "search_history": [
+      "Automotive",
+      "Furniture",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0218",
+    "name": "Ehsaan Dass",
+    "state": "Uttar Pradesh",
+    "city": "Agartala",
+    "search_history": [
+      "Kitchenware",
+      "Automotive",
+      "Furniture",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0219",
+    "name": "Kanav Rama",
+    "state": "Maharashtra",
+    "city": "Allahabad",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0220",
+    "name": "Eva Hayer",
+    "state": "Tamil Nadu",
+    "city": "Kanpur",
+    "search_history": [
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0221",
+    "name": "Dhanush De",
+    "state": "Rajasthan",
+    "city": "Satara",
+    "search_history": [
+      "Furniture",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0222",
+    "name": "Jayan Kata",
+    "state": "Delhi",
+    "city": "Srinagar",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0223",
+    "name": "Romil Samra",
+    "state": "Uttar Pradesh",
+    "city": "Bhopal",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0224",
+    "name": "Alia Ahluwalia",
+    "state": "West Bengal",
+    "city": "Nizamabad",
+    "search_history": [
+      "Packaging",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Textiles",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0225",
+    "name": "Kiara Madan",
+    "state": "Uttar Pradesh",
+    "city": "Solapur",
+    "search_history": [
+      "Machinery",
+      "Automotive",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0226",
+    "name": "Kiaan Reddy",
+    "state": "Rajasthan",
+    "city": "Alwar",
+    "search_history": [
+      "Furniture",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0227",
+    "name": "Gokul Dutt",
+    "state": "Karnataka",
+    "city": "Raebareli",
+    "search_history": [
+      "Textiles",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Machinery",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0228",
+    "name": "Aaina Kar",
+    "state": "Tamil Nadu",
+    "city": "Vijayawada",
+    "search_history": [
+      "Machinery",
+      "Kitchenware",
+      "Tools"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Packaging",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0229",
+    "name": "Aniruddh Rattan",
+    "state": "Delhi",
+    "city": "Udaipur",
+    "search_history": [
+      "Chemicals",
+      "Textiles",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0230",
+    "name": "Aarna Subramaniam",
+    "state": "Madhya Pradesh",
+    "city": "Mirzapur",
+    "search_history": [
+      "Chemicals",
+      "Textiles",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Tools",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0231",
+    "name": "Nitya Sule",
+    "state": "Gujarat",
+    "city": "Nellore",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0232",
+    "name": "Umang Vasa",
+    "state": "Gujarat",
+    "city": "Patna",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0233",
+    "name": "Gokul Badami",
+    "state": "Tamil Nadu",
+    "city": "Gulbarga",
+    "search_history": [
+      "Automotive",
+      "Tools",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0234",
+    "name": "Neysa Sarin",
+    "state": "Gujarat",
+    "city": "Motihari",
+    "search_history": [
+      "Electronics",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0235",
+    "name": "Dhanush Gokhale",
+    "state": "West Bengal",
+    "city": "Khandwa",
+    "search_history": [
+      "Furniture",
+      "Kitchenware",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Chemicals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0236",
+    "name": "Indrans Keer",
+    "state": "Rajasthan",
+    "city": "Navi Mumbai",
+    "search_history": [
+      "Automotive",
+      "Machinery",
+      "Electricals",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0237",
+    "name": "Lagan Chaudhari",
+    "state": "Haryana",
+    "city": "Bhalswa Jahangir Pur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0238",
+    "name": "Mehul Kaur",
+    "state": "Uttar Pradesh",
+    "city": "Ranchi",
+    "search_history": [
+      "Chemicals",
+      "Electronics",
+      "Automotive",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0239",
+    "name": "Mamooty Sandal",
+    "state": "Maharashtra",
+    "city": "Durg",
+    "search_history": [
+      "Electronics",
+      "Tools",
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0240",
+    "name": "Madhav Vasa",
+    "state": "Gujarat",
+    "city": "Shimla",
+    "search_history": [
+      "Tools",
+      "Electricals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0241",
+    "name": "Ira Bhagat",
+    "state": "Madhya Pradesh",
+    "city": "Sultan Pur Majra",
+    "search_history": [
+      "Furniture",
+      "Textiles",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0242",
+    "name": "Anay Wable",
+    "state": "Karnataka",
+    "city": "Gopalpur",
+    "search_history": [
+      "Electricals",
+      "Textiles",
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0243",
+    "name": "Romil Chana",
+    "state": "West Bengal",
+    "city": "Pune",
+    "search_history": [
+      "Electricals",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0244",
+    "name": "Indrans Rajagopalan",
+    "state": "Tamil Nadu",
+    "city": "Kakinada",
+    "search_history": [
+      "Chemicals",
+      "Tools",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0245",
+    "name": "Trisha Dhar",
+    "state": "Haryana",
+    "city": "Tezpur",
+    "search_history": [
+      "Machinery",
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electronics",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0246",
+    "name": "Aayush Madan",
+    "state": "Rajasthan",
+    "city": "Purnia",
+    "search_history": [
+      "Electricals",
+      "Machinery",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Machinery",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0247",
+    "name": "Divij Ben",
+    "state": "Karnataka",
+    "city": "Sonipat",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Packaging",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0248",
+    "name": "Ojas Kurian",
+    "state": "Delhi",
+    "city": "Jorhat",
+    "search_history": [
+      "Tools",
+      "Electronics",
+      "Electricals",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0249",
+    "name": "Kimaya Bali",
+    "state": "Karnataka",
+    "city": "Saharanpur",
+    "search_history": [
+      "Electricals",
+      "Tools",
+      "Machinery",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0250",
+    "name": "Keya Kannan",
+    "state": "Maharashtra",
+    "city": "Buxar",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electronics",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0251",
+    "name": "Miraya Balasubramanian",
+    "state": "Karnataka",
+    "city": "Bhopal",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0252",
+    "name": "Nitya Contractor",
+    "state": "Delhi",
+    "city": "Narasaraopet",
+    "search_history": [
+      "Machinery",
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Packaging",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0253",
+    "name": "Ehsaan Dutt",
+    "state": "Maharashtra",
+    "city": "Medininagar",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Electricals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0254",
+    "name": "Ryan Kalita",
+    "state": "Delhi",
+    "city": "Proddatur",
+    "search_history": [
+      "Furniture",
+      "Textiles",
+      "Automotive",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0255",
+    "name": "Kanav Bhat",
+    "state": "Delhi",
+    "city": "Chapra",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electricals",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0256",
+    "name": "Nitya Lala",
+    "state": "Karnataka",
+    "city": "Malda",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Automotive",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0257",
+    "name": "Ira Khatri",
+    "state": "Uttar Pradesh",
+    "city": "Bongaigaon",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0258",
+    "name": "Raunak Sathe",
+    "state": "Maharashtra",
+    "city": "Allahabad",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0259",
+    "name": "Kimaya Dasgupta",
+    "state": "West Bengal",
+    "city": "Surendranagar Dudhrej",
+    "search_history": [
+      "Chemicals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0260",
+    "name": "Manjari Arora",
+    "state": "Madhya Pradesh",
+    "city": "Guntakal",
+    "search_history": [
+      "Kitchenware",
+      "Tools",
+      "Chemicals",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0261",
+    "name": "Mohanlal Sahni",
+    "state": "Delhi",
+    "city": "Kavali",
+    "search_history": [
+      "Textiles",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0262",
+    "name": "Arhaan Boase",
+    "state": "Tamil Nadu",
+    "city": "Siliguri",
+    "search_history": [
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0263",
+    "name": "Lakshit Kulkarni",
+    "state": "Delhi",
+    "city": "Imphal",
+    "search_history": [
+      "Furniture",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0264",
+    "name": "Vidur Zacharia",
+    "state": "Rajasthan",
+    "city": "Malda",
+    "search_history": [
+      "Tools",
+      "Chemicals",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0265",
+    "name": "Pihu Bains",
+    "state": "Uttar Pradesh",
+    "city": "Kalyan-Dombivli",
+    "search_history": [
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0266",
+    "name": "Rohan Tandon",
+    "state": "West Bengal",
+    "city": "Baranagar",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0267",
+    "name": "Rania Balan",
+    "state": "Madhya Pradesh",
+    "city": "Malda",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0268",
+    "name": "Divyansh Baral",
+    "state": "Karnataka",
+    "city": "Kochi",
+    "search_history": [
+      "Packaging",
+      "Tools"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0269",
+    "name": "Indrans Varughese",
+    "state": "Uttar Pradesh",
+    "city": "Phusro",
+    "search_history": [
+      "Tools",
+      "Automotive",
+      "Kitchenware",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0270",
+    "name": "Miraya Issac",
+    "state": "Uttar Pradesh",
+    "city": "Bhiwani",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0271",
+    "name": "Divit Garde",
+    "state": "Maharashtra",
+    "city": "Ozhukarai",
+    "search_history": [
+      "Textiles",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0272",
+    "name": "Emir Acharya",
+    "state": "Uttar Pradesh",
+    "city": "Madanapalle",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0273",
+    "name": "Dharmajan Vasa",
+    "state": "Gujarat",
+    "city": "Uluberia",
+    "search_history": [
+      "Tools",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0274",
+    "name": "Anahi Cherian",
+    "state": "Haryana",
+    "city": "Proddatur",
+    "search_history": [
+      "Kitchenware",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0275",
+    "name": "Anahita Balasubramanian",
+    "state": "Tamil Nadu",
+    "city": "Naihati",
+    "search_history": [
+      "Electricals",
+      "Furniture",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Electronics",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0276",
+    "name": "Baiju Vasa",
+    "state": "Gujarat",
+    "city": "Bareilly",
+    "search_history": [
+      "Tools",
+      "Electronics",
+      "Machinery",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0277",
+    "name": "Lakshit Grover",
+    "state": "West Bengal",
+    "city": "Chittoor",
+    "search_history": [
+      "Electricals",
+      "Chemicals",
+      "Kitchenware",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0278",
+    "name": "Baiju Sha",
+    "state": "Haryana",
+    "city": "Mau",
+    "search_history": [
+      "Electronics",
+      "Chemicals",
+      "Automotive",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0279",
+    "name": "Myra Sandal",
+    "state": "West Bengal",
+    "city": "Alappuzha",
+    "search_history": [
+      "Machinery",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0280",
+    "name": "Fateh Sachdev",
+    "state": "Karnataka",
+    "city": "Adoni",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0281",
+    "name": "Advik Dasgupta",
+    "state": "West Bengal",
+    "city": "Siliguri",
+    "search_history": [
+      "Tools",
+      "Electricals",
+      "Packaging",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0282",
+    "name": "Advik Loke",
+    "state": "Tamil Nadu",
+    "city": "Nangloi Jat",
+    "search_history": [
+      "Machinery",
+      "Electronics",
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Electronics",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0283",
+    "name": "Navya Sanghvi",
+    "state": "Haryana",
+    "city": "Munger",
+    "search_history": [
+      "Packaging",
+      "Chemicals",
+      "Textiles",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Furniture",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0284",
+    "name": "Charvi Madan",
+    "state": "Karnataka",
+    "city": "Ratlam",
+    "search_history": [
+      "Packaging",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Textiles",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0285",
+    "name": "Sana Barman",
+    "state": "Rajasthan",
+    "city": "Raipur",
+    "search_history": [
+      "Electronics",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0286",
+    "name": "Vanya Chatterjee",
+    "state": "Tamil Nadu",
+    "city": "Udupi",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Electronics",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0287",
+    "name": "Rohan Subramanian",
+    "state": "West Bengal",
+    "city": "Bhilai",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0288",
+    "name": "Darshit Sehgal",
+    "state": "Madhya Pradesh",
+    "city": "Orai",
+    "search_history": [
+      "Automotive",
+      "Electronics",
+      "Packaging",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0289",
+    "name": "Anahita Sidhu",
+    "state": "Tamil Nadu",
+    "city": "Aligarh",
+    "search_history": [
+      "Tools",
+      "Textiles",
+      "Electricals",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0290",
+    "name": "Eva Tak",
+    "state": "Gujarat",
+    "city": "Meerut",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0291",
+    "name": "Madhav Ramachandran",
+    "state": "Maharashtra",
+    "city": "Suryapet",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0292",
+    "name": "Arnav Madan",
+    "state": "Haryana",
+    "city": "Morena",
+    "search_history": [
+      "Electronics",
+      "Tools"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0293",
+    "name": "Oorja Sachdeva",
+    "state": "Gujarat",
+    "city": "Narasaraopet",
+    "search_history": [
+      "Chemicals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0294",
+    "name": "Hiran Rastogi",
+    "state": "Gujarat",
+    "city": "Vijayawada",
+    "search_history": [
+      "Automotive",
+      "Chemicals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Kitchenware",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0295",
+    "name": "Zara Datta",
+    "state": "Karnataka",
+    "city": "Patiala",
+    "search_history": [
+      "Tools",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0296",
+    "name": "Raghav Bhakta",
+    "state": "West Bengal",
+    "city": "Katni",
+    "search_history": [
+      "Packaging",
+      "Electronics",
+      "Electricals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0297",
+    "name": "Faiyaz Sawhney",
+    "state": "Rajasthan",
+    "city": "Aizawl",
+    "search_history": [
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0298",
+    "name": "Mehul Thakur",
+    "state": "Uttar Pradesh",
+    "city": "Davanagere",
+    "search_history": [
+      "Chemicals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0299",
+    "name": "Tarini Singhal",
+    "state": "Uttar Pradesh",
+    "city": "Belgaum",
+    "search_history": [
+      "Tools",
+      "Automotive",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Textiles",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0300",
+    "name": "Eshani Bhakta",
+    "state": "West Bengal",
+    "city": "Karawal Nagar",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0301",
+    "name": "Reyansh Varghese",
+    "state": "Tamil Nadu",
+    "city": "Raiganj",
+    "search_history": [
+      "Electronics",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Tools",
+      "Automotive",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0302",
+    "name": "Kimaya Boase",
+    "state": "Haryana",
+    "city": "Pallavaram",
+    "search_history": [
+      "Tools",
+      "Packaging",
+      "Electricals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electricals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0303",
+    "name": "Purab Majumdar",
+    "state": "Maharashtra",
+    "city": "Navi Mumbai",
+    "search_history": [
+      "Furniture",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0304",
+    "name": "Nitara Amble",
+    "state": "Tamil Nadu",
+    "city": "Suryapet",
+    "search_history": [
+      "Electricals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Tools",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0305",
+    "name": "Faiyaz Gola",
+    "state": "Gujarat",
+    "city": "Ulhasnagar",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0306",
+    "name": "Mannat Rajan",
+    "state": "Uttar Pradesh",
+    "city": "Burhanpur",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0307",
+    "name": "Lavanya Luthra",
+    "state": "Tamil Nadu",
+    "city": "Anand",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Electricals",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0308",
+    "name": "Jayesh Borah",
+    "state": "Karnataka",
+    "city": "Amroha",
+    "search_history": [
+      "Tools",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Kitchenware",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0309",
+    "name": "Prerak Rama",
+    "state": "West Bengal",
+    "city": "Gopalpur",
+    "search_history": [
+      "Machinery",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Tools",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0310",
+    "name": "Jayant Sundaram",
+    "state": "Tamil Nadu",
+    "city": "Secunderabad",
+    "search_history": [
+      "Electricals",
+      "Automotive",
+      "Tools",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0311",
+    "name": "Kanav Korpal",
+    "state": "Madhya Pradesh",
+    "city": "Phagwara",
+    "search_history": [
+      "Chemicals",
+      "Furniture",
+      "Electricals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Textiles",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0312",
+    "name": "Dhanush Kashyap",
+    "state": "West Bengal",
+    "city": "Phagwara",
+    "search_history": [
+      "Automotive",
+      "Tools"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0313",
+    "name": "Shray Andra",
+    "state": "Rajasthan",
+    "city": "Jamshedpur",
+    "search_history": [
+      "Automotive",
+      "Kitchenware",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0314",
+    "name": "Umang Gara",
+    "state": "Karnataka",
+    "city": "Kulti",
+    "search_history": [
+      "Textiles",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0315",
+    "name": "Saanvi Shroff",
+    "state": "Madhya Pradesh",
+    "city": "Siwan",
+    "search_history": [
+      "Machinery",
+      "Electricals",
+      "Electronics",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0316",
+    "name": "Hazel Sankaran",
+    "state": "Haryana",
+    "city": "Hospet",
+    "search_history": [
+      "Automotive",
+      "Packaging",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Tools",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0317",
+    "name": "Tara Wali",
+    "state": "Delhi",
+    "city": "Guna",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Packaging",
+      "Tools"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0318",
+    "name": "Zara Vaidya",
+    "state": "Rajasthan",
+    "city": "Rajahmundry",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0319",
+    "name": "Manikya Dora",
+    "state": "Uttar Pradesh",
+    "city": "Jaipur",
+    "search_history": [
+      "Packaging",
+      "Chemicals",
+      "Electricals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0320",
+    "name": "Aarush Master",
+    "state": "Tamil Nadu",
+    "city": "Mira-Bhayandar",
+    "search_history": [
+      "Textiles",
+      "Kitchenware",
+      "Machinery",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0321",
+    "name": "Tushar Setty",
+    "state": "West Bengal",
+    "city": "Bhind",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0322",
+    "name": "Trisha Luthra",
+    "state": "Rajasthan",
+    "city": "Tenali",
+    "search_history": [
+      "Electricals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0323",
+    "name": "Kismat Uppal",
+    "state": "Uttar Pradesh",
+    "city": "Kamarhati",
+    "search_history": [
+      "Tools",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0324",
+    "name": "Miraan Din",
+    "state": "Delhi",
+    "city": "Rohtak",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0325",
+    "name": "Pranay Wagle",
+    "state": "West Bengal",
+    "city": "Bhopal",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Tools",
+      "Chemicals",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0326",
+    "name": "Ahana  Gade",
+    "state": "Karnataka",
+    "city": "Raurkela Industrial Township",
+    "search_history": [
+      "Electricals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Chemicals",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0327",
+    "name": "Taran Roy",
+    "state": "Karnataka",
+    "city": "Haldia",
+    "search_history": [
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0328",
+    "name": "Indrajit Guha",
+    "state": "Tamil Nadu",
+    "city": "Karawal Nagar",
+    "search_history": [
+      "Furniture",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0329",
+    "name": "Lavanya Karnik",
+    "state": "Uttar Pradesh",
+    "city": "Satara",
+    "search_history": [
+      "Machinery",
+      "Tools",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electricals",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0330",
+    "name": "Onkar Contractor",
+    "state": "Karnataka",
+    "city": "Erode",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0331",
+    "name": "Shlok Sidhu",
+    "state": "Rajasthan",
+    "city": "Visakhapatnam",
+    "search_history": [
+      "Furniture",
+      "Automotive",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Electricals",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0332",
+    "name": "Elakshi Sangha",
+    "state": "West Bengal",
+    "city": "Bongaigaon",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0333",
+    "name": "Uthkarsh Sankaran",
+    "state": "Haryana",
+    "city": "Chinsurah",
+    "search_history": [
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0334",
+    "name": "Aaryahi Sur",
+    "state": "Uttar Pradesh",
+    "city": "Surat",
+    "search_history": [
+      "Electronics",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0335",
+    "name": "Ehsaan Mahajan",
+    "state": "Uttar Pradesh",
+    "city": "Bidar",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Machinery",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0336",
+    "name": "Madhup Tandon",
+    "state": "Haryana",
+    "city": "Latur",
+    "search_history": [
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0337",
+    "name": "Ehsaan Kalla",
+    "state": "West Bengal",
+    "city": "Narasaraopet",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0338",
+    "name": "Dhanuk Dugal",
+    "state": "Karnataka",
+    "city": "Bikaner",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0339",
+    "name": "Aarush Dixit",
+    "state": "Madhya Pradesh",
+    "city": "Mysore",
+    "search_history": [
+      "Tools",
+      "Kitchenware",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0340",
+    "name": "Ishita Wason",
+    "state": "Karnataka",
+    "city": "Panihati",
+    "search_history": [
+      "Electronics",
+      "Kitchenware",
+      "Textiles",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0341",
+    "name": "Yuvraj  Grewal",
+    "state": "Haryana",
+    "city": "Pudukkottai",
+    "search_history": [
+      "Textiles",
+      "Furniture",
+      "Tools",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0342",
+    "name": "Ahana  Doctor",
+    "state": "Karnataka",
+    "city": "Sri Ganganagar",
+    "search_history": [
+      "Tools"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0343",
+    "name": "Parinaaz Sagar",
+    "state": "Rajasthan",
+    "city": "South Dumdum",
+    "search_history": [
+      "Kitchenware",
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0344",
+    "name": "Purab Dubey",
+    "state": "Madhya Pradesh",
+    "city": "Lucknow",
+    "search_history": [
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0345",
+    "name": "Nirvaan Kala",
+    "state": "Tamil Nadu",
+    "city": "Kochi",
+    "search_history": [
+      "Kitchenware",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0346",
+    "name": "Anahi Gaba",
+    "state": "Haryana",
+    "city": "Jaipur",
+    "search_history": [
+      "Tools",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0347",
+    "name": "Reyansh Sampath",
+    "state": "Rajasthan",
+    "city": "Ambattur",
+    "search_history": [
+      "Textiles",
+      "Kitchenware",
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Tools",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0348",
+    "name": "Madhav Sheth",
+    "state": "Gujarat",
+    "city": "Raipur",
+    "search_history": [
+      "Tools",
+      "Textiles",
+      "Packaging",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0349",
+    "name": "Kaira Mani",
+    "state": "Tamil Nadu",
+    "city": "Kirari Suleman Nagar",
+    "search_history": [
+      "Packaging",
+      "Automotive",
+      "Machinery",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0350",
+    "name": "Tiya Dhar",
+    "state": "Delhi",
+    "city": "Cuttack",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Textiles",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0351",
+    "name": "Akarsh Comar",
+    "state": "Tamil Nadu",
+    "city": "Chittoor",
+    "search_history": [
+      "Automotive",
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Automotive",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0352",
+    "name": "Yakshit Acharya",
+    "state": "Maharashtra",
+    "city": "Bharatpur",
+    "search_history": [
+      "Kitchenware",
+      "Packaging",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0353",
+    "name": "Myra Halder",
+    "state": "Delhi",
+    "city": "Loni",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0354",
+    "name": "Uthkarsh Dass",
+    "state": "Rajasthan",
+    "city": "Suryapet",
+    "search_history": [
+      "Electronics",
+      "Automotive",
+      "Packaging",
+      "Kitchenware"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0355",
+    "name": "Ranbir Bhargava",
+    "state": "Rajasthan",
+    "city": "Agartala",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Kitchenware",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0356",
+    "name": "Emir Manne",
+    "state": "Rajasthan",
+    "city": "Parbhani",
+    "search_history": [
+      "Electronics",
+      "Machinery",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0357",
+    "name": "Parinaaz Virk",
+    "state": "Rajasthan",
+    "city": "Bhimavaram",
+    "search_history": [
+      "Tools",
+      "Packaging"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0358",
+    "name": "Shaan Vala",
+    "state": "Uttar Pradesh",
+    "city": "Kumbakonam",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0359",
+    "name": "Aayush Dayal",
+    "state": "Tamil Nadu",
+    "city": "Gudivada",
+    "search_history": [
+      "Tools",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0360",
+    "name": "Dhruv Joshi",
+    "state": "Maharashtra",
+    "city": "Mirzapur",
+    "search_history": [
+      "Automotive",
+      "Electricals",
+      "Tools",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0361",
+    "name": "Dhanush Ben",
+    "state": "Gujarat",
+    "city": "Sri Ganganagar",
+    "search_history": [
+      "Machinery",
+      "Chemicals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0362",
+    "name": "Faiyaz Arya",
+    "state": "Maharashtra",
+    "city": "Gulbarga",
+    "search_history": [
+      "Kitchenware",
+      "Textiles",
+      "Tools"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Furniture",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0363",
+    "name": "Tarini Ratti",
+    "state": "Madhya Pradesh",
+    "city": "Purnia",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0364",
+    "name": "Raunak Varughese",
+    "state": "Rajasthan",
+    "city": "Dibrugarh",
+    "search_history": [
+      "Textiles",
+      "Automotive",
+      "Kitchenware",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0365",
+    "name": "Vihaan Chaudhari",
+    "state": "Karnataka",
+    "city": "Gorakhpur",
+    "search_history": [
+      "Kitchenware",
+      "Machinery",
+      "Electricals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0366",
+    "name": "Kimaya Babu",
+    "state": "Karnataka",
+    "city": "Sirsa",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0367",
+    "name": "Jayan Chadha",
+    "state": "Rajasthan",
+    "city": "Kamarhati",
+    "search_history": [
+      "Chemicals",
+      "Electricals",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0368",
+    "name": "Charvi Dyal",
+    "state": "Maharashtra",
+    "city": "Thoothukudi",
+    "search_history": [
+      "Electricals",
+      "Electronics",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0369",
+    "name": "Yuvraj  Choudhary",
+    "state": "Madhya Pradesh",
+    "city": "Moradabad",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0370",
+    "name": "Lagan Deol",
+    "state": "Gujarat",
+    "city": "Gwalior",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0371",
+    "name": "Mamooty Konda",
+    "state": "Maharashtra",
+    "city": "Raipur",
+    "search_history": [
+      "Machinery",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Machinery",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0372",
+    "name": "Tanya Basak",
+    "state": "Madhya Pradesh",
+    "city": "Bikaner",
+    "search_history": [
+      "Electronics",
+      "Automotive",
+      "Chemicals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0373",
+    "name": "Dhanush Ramachandran",
+    "state": "Uttar Pradesh",
+    "city": "Guntakal",
+    "search_history": [
+      "Automotive",
+      "Furniture",
+      "Electronics",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0374",
+    "name": "Neelofar Shenoy",
+    "state": "Madhya Pradesh",
+    "city": "Bhilwara",
+    "search_history": [
+      "Kitchenware",
+      "Furniture",
+      "Electricals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Tools",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0375",
+    "name": "Mishti Sood",
+    "state": "Madhya Pradesh",
+    "city": "Secunderabad",
+    "search_history": [
+      "Machinery",
+      "Automotive",
+      "Tools",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0376",
+    "name": "Jiya Bajwa",
+    "state": "Delhi",
+    "city": "Ongole",
+    "search_history": [
+      "Packaging",
+      "Tools",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Electricals",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0377",
+    "name": "Romil Soman",
+    "state": "Rajasthan",
+    "city": "Ranchi",
+    "search_history": [
+      "Electricals",
+      "Automotive",
+      "Textiles",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0378",
+    "name": "Kavya Brahmbhatt",
+    "state": "Haryana",
+    "city": "Jamnagar",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0379",
+    "name": "Vihaan Kari",
+    "state": "Tamil Nadu",
+    "city": "Ranchi",
+    "search_history": [
+      "Electricals",
+      "Packaging",
+      "Tools",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0380",
+    "name": "Madhup Rau",
+    "state": "Maharashtra",
+    "city": "Srikakulam",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0381",
+    "name": "Alisha Sawhney",
+    "state": "Tamil Nadu",
+    "city": "Asansol",
+    "search_history": [
+      "Automotive",
+      "Textiles",
+      "Tools"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0382",
+    "name": "Darshit Shanker",
+    "state": "Tamil Nadu",
+    "city": "Bhusawal",
+    "search_history": [
+      "Electricals",
+      "Electronics",
+      "Tools",
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0383",
+    "name": "Dhruv Kumer",
+    "state": "Uttar Pradesh",
+    "city": "Aurangabad",
+    "search_history": [
+      "Automotive",
+      "Machinery",
+      "Chemicals",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0384",
+    "name": "Ira Khurana",
+    "state": "Gujarat",
+    "city": "Amritsar",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0385",
+    "name": "Badal Gera",
+    "state": "Maharashtra",
+    "city": "New Delhi",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0386",
+    "name": "Dhruv Sura",
+    "state": "West Bengal",
+    "city": "Kirari Suleman Nagar",
+    "search_history": [
+      "Kitchenware",
+      "Electronics",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0387",
+    "name": "Samar Bahl",
+    "state": "Gujarat",
+    "city": "Chinsurah",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0388",
+    "name": "Sana Karan",
+    "state": "Rajasthan",
+    "city": "Kalyan-Dombivli",
+    "search_history": [
+      "Electronics",
+      "Kitchenware",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0389",
+    "name": "Gokul Sarin",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Kitchenware",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0390",
+    "name": "Yakshit Kara",
+    "state": "Karnataka",
+    "city": "Pali",
+    "search_history": [
+      "Packaging",
+      "Kitchenware",
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0391",
+    "name": "Hansh Chakraborty",
+    "state": "West Bengal",
+    "city": "Jaipur",
+    "search_history": [
+      "Textiles",
+      "Machinery",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0392",
+    "name": "Nayantara Sekhon",
+    "state": "Karnataka",
+    "city": "Sasaram",
+    "search_history": [
+      "Textiles",
+      "Automotive",
+      "Furniture",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0393",
+    "name": "Damini Rajan",
+    "state": "Karnataka",
+    "city": "Kamarhati",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Textiles",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0394",
+    "name": "Aarav Sood",
+    "state": "Delhi",
+    "city": "Sri Ganganagar",
+    "search_history": [
+      "Electronics",
+      "Automotive",
+      "Packaging",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electricals",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0395",
+    "name": "Jayan Malhotra",
+    "state": "Gujarat",
+    "city": "Ongole",
+    "search_history": [
+      "Machinery",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0396",
+    "name": "Hridaan Chacko",
+    "state": "Tamil Nadu",
+    "city": "Bidhannagar",
+    "search_history": [
+      "Chemicals",
+      "Furniture",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Chemicals",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0397",
+    "name": "Faiyaz Dar",
+    "state": "Madhya Pradesh",
+    "city": "Guntur",
+    "search_history": [
+      "Kitchenware",
+      "Tools",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0398",
+    "name": "Emir Singh",
+    "state": "Uttar Pradesh",
+    "city": "Bhavnagar",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Kitchenware",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0399",
+    "name": "Yashvi Sami",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "search_history": [
+      "Packaging",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0400",
+    "name": "Dhanush Gaba",
+    "state": "Haryana",
+    "city": "Morena",
+    "search_history": [
+      "Chemicals",
+      "Automotive",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Tools",
+      "Furniture",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0401",
+    "name": "Heer Chahal",
+    "state": "Karnataka",
+    "city": "Arrah",
+    "search_history": [
+      "Packaging",
+      "Textiles",
+      "Kitchenware",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Packaging",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0402",
+    "name": "Shayak Singh",
+    "state": "Gujarat",
+    "city": "Ichalkaranji",
+    "search_history": [
+      "Electronics",
+      "Furniture",
+      "Electricals",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0403",
+    "name": "Ira Badal",
+    "state": "Maharashtra",
+    "city": "Gopalpur",
+    "search_history": [
+      "Machinery",
+      "Tools",
+      "Furniture",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electricals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0404",
+    "name": "Dishani Kapur",
+    "state": "Rajasthan",
+    "city": "Dhule",
+    "search_history": [
+      "Automotive",
+      "Textiles",
+      "Kitchenware",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0405",
+    "name": "Anika Karpe",
+    "state": "Tamil Nadu",
+    "city": "Aligarh",
+    "search_history": [
+      "Furniture",
+      "Automotive",
+      "Packaging",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0406",
+    "name": "Zara Barman",
+    "state": "Karnataka",
+    "city": "Amritsar",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0407",
+    "name": "Hansh Devan",
+    "state": "Haryana",
+    "city": "Fatehpur",
+    "search_history": [
+      "Electronics",
+      "Electricals",
+      "Furniture",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0408",
+    "name": "Shray Sarraf",
+    "state": "Maharashtra",
+    "city": "Akola",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0409",
+    "name": "Nehmat Sharaf",
+    "state": "Tamil Nadu",
+    "city": "Arrah",
+    "search_history": [
+      "Furniture",
+      "Tools",
+      "Textiles",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0410",
+    "name": "Kimaya Sem",
+    "state": "Tamil Nadu",
+    "city": "Siwan",
+    "search_history": [
+      "Electronics",
+      "Machinery",
+      "Chemicals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0411",
+    "name": "Nirvaan Joshi",
+    "state": "Delhi",
+    "city": "Nanded",
+    "search_history": [
+      "Furniture",
+      "Tools"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0412",
+    "name": "Tiya Acharya",
+    "state": "Karnataka",
+    "city": "Kalyan-Dombivli",
+    "search_history": [
+      "Chemicals",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0413",
+    "name": "Romil Contractor",
+    "state": "Uttar Pradesh",
+    "city": "Rajkot",
+    "search_history": [
+      "Kitchenware",
+      "Automotive",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0414",
+    "name": "Misha Sane",
+    "state": "Tamil Nadu",
+    "city": "Tiruppur",
+    "search_history": [
+      "Packaging",
+      "Electricals",
+      "Textiles",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Machinery",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0415",
+    "name": "Miraan Sundaram",
+    "state": "Maharashtra",
+    "city": "Sangli-Miraj & Kupwad",
+    "search_history": [
+      "Tools",
+      "Electronics",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Electronics",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0416",
+    "name": "Saanvi Dara",
+    "state": "Rajasthan",
+    "city": "Ongole",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0417",
+    "name": "Advik Dugar",
+    "state": "Gujarat",
+    "city": "Mira-Bhayandar",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0418",
+    "name": "Shalv Chad",
+    "state": "Haryana",
+    "city": "Nandyal",
+    "search_history": [
+      "Electricals",
+      "Electronics",
+      "Chemicals",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0419",
+    "name": "Nishith Butala",
+    "state": "Karnataka",
+    "city": "Noida",
+    "search_history": [
+      "Furniture",
+      "Electricals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0420",
+    "name": "Jivin Sur",
+    "state": "Maharashtra",
+    "city": "Rajkot",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0421",
+    "name": "Shanaya Ratti",
+    "state": "Maharashtra",
+    "city": "Vijayanagaram",
+    "search_history": [
+      "Chemicals",
+      "Textiles",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0422",
+    "name": "Jhanvi Master",
+    "state": "Delhi",
+    "city": "Haridwar",
+    "search_history": [
+      "Electronics",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0423",
+    "name": "Elakshi Johal",
+    "state": "Haryana",
+    "city": "Etawah",
+    "search_history": [
+      "Packaging",
+      "Kitchenware",
+      "Textiles",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0424",
+    "name": "Ivana Mandal",
+    "state": "Tamil Nadu",
+    "city": "Davanagere",
+    "search_history": [
+      "Chemicals",
+      "Textiles",
+      "Furniture",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Tools",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0425",
+    "name": "Yashvi Shan",
+    "state": "Madhya Pradesh",
+    "city": "Dewas",
+    "search_history": [
+      "Packaging",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Textiles",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0426",
+    "name": "Kanav Doshi",
+    "state": "Rajasthan",
+    "city": "Rajkot",
+    "search_history": [
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0427",
+    "name": "Darshit Roy",
+    "state": "Maharashtra",
+    "city": "Bhalswa Jahangir Pur",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0428",
+    "name": "Shlok Sood",
+    "state": "Tamil Nadu",
+    "city": "Dehri",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0429",
+    "name": "Neysa Shan",
+    "state": "Delhi",
+    "city": "Tiruppur",
+    "search_history": [
+      "Machinery",
+      "Kitchenware",
+      "Packaging",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0430",
+    "name": "Sara Arya",
+    "state": "Rajasthan",
+    "city": "Kurnool",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0431",
+    "name": "Rania Datta",
+    "state": "Rajasthan",
+    "city": "Ludhiana",
+    "search_history": [
+      "Tools",
+      "Machinery",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Machinery",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0432",
+    "name": "Ranbir Dasgupta",
+    "state": "Tamil Nadu",
+    "city": "Machilipatnam",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0433",
+    "name": "Ranbir Krishnamurthy",
+    "state": "Uttar Pradesh",
+    "city": "Hajipur",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Kitchenware",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0434",
+    "name": "Aradhya Balasubramanian",
+    "state": "Maharashtra",
+    "city": "Rampur",
+    "search_history": [
+      "Tools",
+      "Machinery",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0435",
+    "name": "Mohanlal Hayer",
+    "state": "Gujarat",
+    "city": "Thrissur",
+    "search_history": [
+      "Tools",
+      "Furniture",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0436",
+    "name": "Gatik Baria",
+    "state": "Haryana",
+    "city": "Hosur",
+    "search_history": [
+      "Packaging"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electronics",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0437",
+    "name": "Rohan Borde",
+    "state": "West Bengal",
+    "city": "Pallavaram",
+    "search_history": [
+      "Electronics",
+      "Textiles",
+      "Chemicals",
+      "Furniture"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0438",
+    "name": "Adah Krishnan",
+    "state": "Uttar Pradesh",
+    "city": "Bhind",
+    "search_history": [
+      "Automotive",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0439",
+    "name": "Kiaan Bajaj",
+    "state": "Maharashtra",
+    "city": "Purnia",
+    "search_history": [
+      "Packaging",
+      "Tools",
+      "Electricals",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0440",
+    "name": "Diya Edwin",
+    "state": "Maharashtra",
+    "city": "Sangli-Miraj & Kupwad",
+    "search_history": [
+      "Furniture",
+      "Kitchenware",
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electronics",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0441",
+    "name": "Mahika Dalal",
+    "state": "Uttar Pradesh",
+    "city": "Karaikudi",
+    "search_history": [
+      "Kitchenware",
+      "Machinery",
+      "Textiles",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Kitchenware",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0442",
+    "name": "Ishita Chana",
+    "state": "Uttar Pradesh",
+    "city": "Gangtok",
+    "search_history": [
+      "Furniture",
+      "Electronics",
+      "Tools",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0443",
+    "name": "Azad Konda",
+    "state": "Delhi",
+    "city": "Tiruppur",
+    "search_history": [
+      "Automotive",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0444",
+    "name": "Zaina Virk",
+    "state": "Karnataka",
+    "city": "Thoothukudi",
+    "search_history": [
+      "Textiles",
+      "Electricals",
+      "Automotive",
+      "Tools"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Electronics",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0445",
+    "name": "Chirag Balan",
+    "state": "Haryana",
+    "city": "Hazaribagh",
+    "search_history": [
+      "Kitchenware",
+      "Electricals",
+      "Machinery",
+      "Automotive"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0446",
+    "name": "Dhanuk Ray",
+    "state": "Tamil Nadu",
+    "city": "Avadi",
+    "search_history": [
+      "Electronics",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0447",
+    "name": "Anvi Verma",
+    "state": "Karnataka",
+    "city": "Secunderabad",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Furniture",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0448",
+    "name": "Tarini Ratti",
+    "state": "Madhya Pradesh",
+    "city": "Raiganj",
+    "search_history": [
+      "Textiles",
+      "Packaging",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Tools",
+      "Kitchenware",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0449",
+    "name": "Jivin Varkey",
+    "state": "Karnataka",
+    "city": "Guwahati",
+    "search_history": [
+      "Electricals",
+      "Textiles",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Packaging",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0450",
+    "name": "Diya Sheth",
+    "state": "Haryana",
+    "city": "Guna",
+    "search_history": [
+      "Tools",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0451",
+    "name": "Eshani Jaggi",
+    "state": "Tamil Nadu",
+    "city": "Indore",
+    "search_history": [
+      "Furniture",
+      "Textiles",
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Tools",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0452",
+    "name": "Shaan Shukla",
+    "state": "Delhi",
+    "city": "Bidar",
+    "search_history": [
+      "Automotive",
+      "Machinery",
+      "Textiles",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0453",
+    "name": "Miraya Suresh",
+    "state": "Uttar Pradesh",
+    "city": "Solapur",
+    "search_history": [
+      "Packaging",
+      "Furniture",
+      "Automotive",
+      "Electronics"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0454",
+    "name": "Indrajit Tank",
+    "state": "Gujarat",
+    "city": "Vellore",
+    "search_history": [
+      "Textiles"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Electronics"
+    ]
+  },
+  {
+    "buyer_id": "B0455",
+    "name": "Nehmat Acharya",
+    "state": "Rajasthan",
+    "city": "Thiruvananthapuram",
+    "search_history": [
+      "Electronics",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0456",
+    "name": "Azad Ben",
+    "state": "Delhi",
+    "city": "Jamshedpur",
+    "search_history": [
+      "Electronics"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0457",
+    "name": "Kismat Varma",
+    "state": "Madhya Pradesh",
+    "city": "Bhubaneswar",
+    "search_history": [
+      "Chemicals",
+      "Electricals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0458",
+    "name": "Bhavin Walia",
+    "state": "Madhya Pradesh",
+    "city": "Raiganj",
+    "search_history": [
+      "Electronics",
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0459",
+    "name": "Advik Varma",
+    "state": "Delhi",
+    "city": "Motihari",
+    "search_history": [
+      "Electronics",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0460",
+    "name": "Gatik Thaman",
+    "state": "West Bengal",
+    "city": "Burhanpur",
+    "search_history": [
+      "Tools",
+      "Textiles",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Chemicals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0461",
+    "name": "Ishaan Chada",
+    "state": "West Bengal",
+    "city": "Nizamabad",
+    "search_history": [
+      "Furniture"
+    ],
+    "past_orders": [
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0462",
+    "name": "Himmat Ramachandran",
+    "state": "Madhya Pradesh",
+    "city": "Hospet",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Textiles",
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0463",
+    "name": "Dhanush Thaman",
+    "state": "Karnataka",
+    "city": "Kadapa",
+    "search_history": [
+      "Furniture",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0464",
+    "name": "Mamooty Bhattacharyya",
+    "state": "Haryana",
+    "city": "Pallavaram",
+    "search_history": [
+      "Machinery",
+      "Electronics",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Automotive",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0465",
+    "name": "Akarsh Lalla",
+    "state": "Madhya Pradesh",
+    "city": "Ulhasnagar",
+    "search_history": [
+      "Machinery",
+      "Chemicals",
+      "Furniture",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0466",
+    "name": "Mahika Lanka",
+    "state": "Delhi",
+    "city": "Barasat",
+    "search_history": [
+      "Tools"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Machinery",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0467",
+    "name": "Arnav Savant",
+    "state": "Tamil Nadu",
+    "city": "Bikaner",
+    "search_history": [
+      "Machinery",
+      "Automotive",
+      "Chemicals",
+      "Tools"
+    ],
+    "past_orders": [
+      "Tools",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0468",
+    "name": "Jayant Varty",
+    "state": "Delhi",
+    "city": "South Dumdum",
+    "search_history": [
+      "Chemicals",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0469",
+    "name": "Veer Lad",
+    "state": "Haryana",
+    "city": "Kolhapur",
+    "search_history": [
+      "Machinery",
+      "Chemicals",
+      "Textiles",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0470",
+    "name": "Myra Sur",
+    "state": "Gujarat",
+    "city": "Bahraich",
+    "search_history": [
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0471",
+    "name": "Arnav Mani",
+    "state": "Haryana",
+    "city": "Bellary",
+    "search_history": [
+      "Textiles",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0472",
+    "name": "Baiju Chand",
+    "state": "Tamil Nadu",
+    "city": "Siwan",
+    "search_history": [
+      "Furniture",
+      "Tools",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0473",
+    "name": "Eshani Warrior",
+    "state": "Delhi",
+    "city": "Rohtak",
+    "search_history": [
+      "Chemicals",
+      "Electronics",
+      "Machinery"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0474",
+    "name": "Manikya Kannan",
+    "state": "Haryana",
+    "city": "Purnia",
+    "search_history": [
+      "Kitchenware",
+      "Automotive",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0475",
+    "name": "Kaira Dugar",
+    "state": "Uttar Pradesh",
+    "city": "Korba",
+    "search_history": [
+      "Textiles",
+      "Kitchenware"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0476",
+    "name": "Prisha Agarwal",
+    "state": "West Bengal",
+    "city": "Bardhaman",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0477",
+    "name": "Akarsh Shah",
+    "state": "Karnataka",
+    "city": "Gopalpur",
+    "search_history": [
+      "Tools",
+      "Electronics",
+      "Textiles",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Packaging",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0478",
+    "name": "Neysa Gulati",
+    "state": "Rajasthan",
+    "city": "Eluru",
+    "search_history": [
+      "Kitchenware",
+      "Packaging",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Packaging",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0479",
+    "name": "Kartik Kale",
+    "state": "Tamil Nadu",
+    "city": "Solapur",
+    "search_history": [
+      "Chemicals",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0480",
+    "name": "Anvi Bahl",
+    "state": "Delhi",
+    "city": "Rourkela",
+    "search_history": [
+      "Kitchenware",
+      "Chemicals",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0481",
+    "name": "Divyansh Mammen",
+    "state": "Tamil Nadu",
+    "city": "Kochi",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Packaging"
+    ]
+  },
+  {
+    "buyer_id": "B0482",
+    "name": "Tanya Swamy",
+    "state": "Rajasthan",
+    "city": "Ramgarh",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": [
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0483",
+    "name": "Hazel Kala",
+    "state": "West Bengal",
+    "city": "Bhubaneswar",
+    "search_history": [
+      "Automotive"
+    ],
+    "past_orders": [
+      "Furniture",
+      "Electricals",
+      "Chemicals"
+    ]
+  },
+  {
+    "buyer_id": "B0484",
+    "name": "Anahi Ganesan",
+    "state": "Delhi",
+    "city": "Amritsar",
+    "search_history": [
+      "Tools",
+      "Electricals"
+    ],
+    "past_orders": [
+      "Kitchenware",
+      "Furniture"
+    ]
+  },
+  {
+    "buyer_id": "B0485",
+    "name": "Onkar Varma",
+    "state": "Delhi",
+    "city": "Panipat",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0486",
+    "name": "Vedika Dutt",
+    "state": "Tamil Nadu",
+    "city": "Gwalior",
+    "search_history": [
+      "Chemicals",
+      "Packaging",
+      "Kitchenware",
+      "Machinery"
+    ],
+    "past_orders": [
+      "Packaging",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0487",
+    "name": "Azad Chanda",
+    "state": "Karnataka",
+    "city": "Khandwa",
+    "search_history": [
+      "Machinery"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0488",
+    "name": "Mannat Bava",
+    "state": "Delhi",
+    "city": "Panipat",
+    "search_history": [
+      "Electricals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Machinery"
+    ]
+  },
+  {
+    "buyer_id": "B0489",
+    "name": "Anahita Sem",
+    "state": "Rajasthan",
+    "city": "Farrukhabad",
+    "search_history": [
+      "Furniture",
+      "Tools"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0490",
+    "name": "Uthkarsh Kapur",
+    "state": "Karnataka",
+    "city": "Madanapalle",
+    "search_history": [
+      "Automotive",
+      "Kitchenware",
+      "Electronics",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Tools",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0491",
+    "name": "Reyansh Sachar",
+    "state": "Maharashtra",
+    "city": "Shimoga",
+    "search_history": [
+      "Kitchenware",
+      "Electricals",
+      "Tools",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Electronics",
+      "Electricals"
+    ]
+  },
+  {
+    "buyer_id": "B0492",
+    "name": "Aayush Luthra",
+    "state": "West Bengal",
+    "city": "Agra",
+    "search_history": [
+      "Electricals",
+      "Electronics",
+      "Chemicals"
+    ],
+    "past_orders": []
+  },
+  {
+    "buyer_id": "B0493",
+    "name": "Ahana  Baral",
+    "state": "West Bengal",
+    "city": "Gulbarga",
+    "search_history": [
+      "Kitchenware",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Chemicals",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0494",
+    "name": "Kabir Krishna",
+    "state": "Rajasthan",
+    "city": "Nagaon",
+    "search_history": [
+      "Textiles",
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Textiles"
+    ]
+  },
+  {
+    "buyer_id": "B0495",
+    "name": "Bhamini Dugar",
+    "state": "Madhya Pradesh",
+    "city": "Nashik",
+    "search_history": [
+      "Textiles",
+      "Electricals",
+      "Furniture"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0496",
+    "name": "Vedika Ganguly",
+    "state": "Uttar Pradesh",
+    "city": "Chinsurah",
+    "search_history": [
+      "Automotive",
+      "Packaging"
+    ],
+    "past_orders": [
+      "Electricals",
+      "Chemicals",
+      "Automotive"
+    ]
+  },
+  {
+    "buyer_id": "B0497",
+    "name": "Azad Sekhon",
+    "state": "Gujarat",
+    "city": "Guntakal",
+    "search_history": [
+      "Electricals",
+      "Electronics"
+    ],
+    "past_orders": [
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0498",
+    "name": "Dishani Dugal",
+    "state": "Rajasthan",
+    "city": "Guwahati",
+    "search_history": [
+      "Electronics",
+      "Packaging",
+      "Automotive"
+    ],
+    "past_orders": [
+      "Automotive",
+      "Electronics",
+      "Kitchenware"
+    ]
+  },
+  {
+    "buyer_id": "B0499",
+    "name": "Pihu Din",
+    "state": "Karnataka",
+    "city": "Kolkata",
+    "search_history": [
+      "Automotive",
+      "Machinery",
+      "Packaging",
+      "Textiles"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Chemicals",
+      "Tools"
+    ]
+  },
+  {
+    "buyer_id": "B0500",
+    "name": "Madhup Tata",
+    "state": "Rajasthan",
+    "city": "Firozabad",
+    "search_history": [
+      "Chemicals"
+    ],
+    "past_orders": [
+      "Machinery",
+      "Tools",
+      "Electricals"
+    ]
+  }
+]
